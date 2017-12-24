@@ -23,7 +23,7 @@ github_username: timetraveller05
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-midnight
+theme: jekyll-swiss
 plugins:
   - jekyll-feed
 
